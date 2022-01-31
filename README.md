@@ -18,3 +18,5 @@ Then, make the file open with LuaExecutor.app
 Then, open the file: a terminal window should open without requiring to have LUA installed and it'll run the LUA script
 
 ![Screen Shot 2022-01-31 at 9 40 44 a m](https://user-images.githubusercontent.com/93679649/151844738-d0bd3576-a0ca-44b7-abcf-d855ea98ac9b.png)
+
+To use this app, simply download the LuaExecutor.app.zip file, open the zip file and it'll be done
